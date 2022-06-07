@@ -12,15 +12,17 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Youtube
-    url: https://www.youtube.com/
+    url: https://www.youtube.com
   - name: NCU
     url: https://www.ncu.edu.tw/tw/index.html
   - name: facebook
-    url: https://www.facebook.com/
+    url: https://www.facebook.com
    - name: instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com
    - name: yahoo
-    url: https://tw.yahoo.com//
+    url: https://tw.yahoo.com
+    - name: broken
+    url: https://cdx.nchc.org.tw/setting_vmmgt_course_det
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
