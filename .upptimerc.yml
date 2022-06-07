@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Youtube
-    url: https://www.youtube.com
+    url: https://youtube.com
   - name: NCU
     url: https://www.ncu.edu.tw/tw/index.html
   - name: facebook
